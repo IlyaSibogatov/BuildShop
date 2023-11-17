@@ -33,7 +33,7 @@ class CatalogViewModel @Inject constructor(
                 )
             }
             _uiState.value = uiState.value.copy(
-                isLoading = true
+                isLoading = false
             )
         }
     }
