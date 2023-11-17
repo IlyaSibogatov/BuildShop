@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BuildingShop</string>
+
+    <string name="to_catalog">Перейти к каталогу</string>
+
+    <string name="catalog_label">Каталог товаров</string>
+
+    <string name="price_label">Цена: %1$s ₽</string>
+    <string name="article_label">Артикул: %1$s</string>
+
+    <string name="details_label">Детали товара</string>
+</resources>

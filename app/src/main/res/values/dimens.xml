@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSize1">1sp</dimen>
+    <dimen name="textSize5">5sp</dimen>
+    <dimen name="textSize12">12sp</dimen>
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="textSize16">16sp</dimen>
+
+
+    <dimen name="size0">0dp</dimen>
+    <dimen name="size1">1dp</dimen>
+    <dimen name="size4">4dp</dimen>
+    <dimen name="size5">5dp</dimen>
+    <dimen name="size8">8dp</dimen>
+    <dimen name="size15">15dp</dimen>
+    <dimen name="size75">75dp</dimen>
+    <dimen name="size250">250dp</dimen>
+</resources>

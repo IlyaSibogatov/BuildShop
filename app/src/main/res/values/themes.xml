@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BuildingShop" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BuildingShop" parent="Base.Theme.BuildingShop" />
+
+    <style name="TitleTextView">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">@dimen/textSize16</item>
+        <item name="android:lineSpacingExtra">@dimen/textSize5</item>
+    </style>
+
+    <style name="PrimaryTextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/textSize13</item>
+        <item name="android:lineSpacingExtra">@dimen/textSize1</item>
+    </style>
+
+    <style name="SecondTextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/textSize12</item>
+        <item name="android:lineSpacingExtra">@dimen/textSize1</item>
+    </style>
+</resources>
