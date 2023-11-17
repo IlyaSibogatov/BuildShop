@@ -1,5 +1,15 @@
 # BuildShop
 
+# The project used:
+- MVVM pattern;
+- Dependency injection (Hilt);
+- Retrofit;
+- Navigation fragment;
+- Coroutines;
+- ViewBinding;
+- Glide;
+- StateFlow.
+
 Main page
 
 ![main_page](https://github.com/IlyaSibogatov/BuildShop/assets/95710591/830363f7-34a2-46f7-b2c7-733fe4b03a08)
